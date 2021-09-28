@@ -1,5 +1,7 @@
 ## :rocket:YOLOX 训练自己的模型
 
+Xu Jing
+
 #### :fire: :fire::fire:自定义数据集，模型训练， TensorRT C++模型加速，详细教程和代码:fire::fire::fire:
 
 <div align="center"><img src="assets/logo.png" width="350"></div>
